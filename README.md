@@ -7,3 +7,5 @@
 
 ### Модель ракеты создана в конструкторе Kerbal Space Program
 ![image94](https://github.com/dkutugin3/Remont-holodilnikov/blob/main/Pictures/launch.png)
+![image94](./Pictures/land.png)
+
