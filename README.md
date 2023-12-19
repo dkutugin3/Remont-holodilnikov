@@ -7,4 +7,5 @@
 
 ### Модель ракеты создана в конструкторе Kerbal Space Program
 ![image2](https://github.com/dkutugin3/Remont-holodilnikov/blob/main/Pictures/land.png)
+![image2](https://github.com/dkutugin3/Remont-holodilnikov/blob/main/Pictures/land.png)
 Файл с моделью [ракеты](Venus_5.craft)
