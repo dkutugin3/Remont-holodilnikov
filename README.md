@@ -20,7 +20,7 @@
 - Программа для [рассчёта скорости в каждый момент времени на каждом из трёх участков полёта](Programming/model_graphs.py ) 
 
 ### Ссылка на материалы проекта и отчет
-TODO
+https://drive.google.com/drive/u/2/folders/1Aj7K3kCzyQ991hBq4gW1wvvo77XHZo59
 
 ### Ссылка на видеоотчет на YouTube
 https://goo.su/MACA
